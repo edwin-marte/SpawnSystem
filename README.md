@@ -1,6 +1,6 @@
 # Unreal Engine 5 Spawn System
 
-Spawn system that checks for collisions before spawning and picks up a random position around the player that is not colliding with any other object in the scene
+Spawn system that checks for collisions before spawning and selects a random position around the player that does not collide with any other object in the scene.
 
 ![1](https://github.com/edwin-marte/SpawnSystem/assets/131810838/6d4bfe37-0f6c-422d-a681-bc215e190a6f)
 ![2](https://github.com/edwin-marte/SpawnSystem/assets/131810838/823f101b-1e51-461d-8ebb-72d78bdbaefd)
